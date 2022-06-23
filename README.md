@@ -1,0 +1,2 @@
+# smallproject
+creating a project
